@@ -136,5 +136,5 @@ mainArt = \
 '''   
 
 # Code reader
-with open('PyBirthdayWish-main\PyBirthdayWish-main\PyBirthdayWish.py') as f_in:
+with open('PyBirthdayWish.py') as f_in:
 	code = f_in.read()
